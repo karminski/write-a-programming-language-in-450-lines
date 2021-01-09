@@ -1,8 +1,8 @@
 牙医教你 450 行代码自制编程语言 - 3, 实现 Lexer 上篇.md
 ----------------------------------------------------
 
-@version    20210104:1  
-@author     karminski <work.karminski@outlook.com>
+@version    20210104:1   
+@author     karminski <work.karminski@outlook.com>  
 
 
 上一篇  [牙医教你 450 行代码自制编程语言 - 2, 两个魔法就可以实现永动机](https://zhuanlan.zhihu.com/p/341532964), 简单讲了构成 Lexer & Parser 的元素. 本期我们就要开始实现 Lexer了.
@@ -12,6 +12,9 @@
 另外, [KevinXuxuxu](https://github.com/KevinXuxuxu) 同学看了我的 demo 后, 还实现了一个 Python 版本的, 地址在这里: [https://github.com/KevinXuxuxu/pineapple-py](https://github.com/KevinXuxuxu/pineapple-py)  
 
 再次推荐这本书, 本教程就是类似这本书的简化版本, 想要仔细学习的话可以考虑看原作:  
+
+- [《自己动手实现Lua：虚拟机、编译器和标准库》](https://union-click.jd.com/jdc?e=jdext-1331174943460048896-0&p=AyIGZRhfEQAUAlEZWBAyEgZUGF4SAhIFUBJaEQQiQwpDBUoyS0IQWhkeHAxfEE8HCllHGAdFBwsCEwZWHlwVAhACXBpfEx1LQglGa2lVWnpcTwhRYXZHBkIzFXRIXT1jGHUOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMlNpXBhdFAUaN1QrWxICEwdRHFIXCxYPUitbHQYi0fuPjp29y7fwzfG715%2B3gJLwwbyUN2UrWCVZR1McXkcVABAHVR1eHQcQAlIaWhALGw9SB1olAhMGVx9ZFAUaBzseWxQDEwNdGlkXbBAGVBlaFAAVAVYrWyUBIlk7GggVUhVVAEw1T1lTBxAeWxdsEgRdHFwRBBA3VxpaFwA%3D)
+
 
 # 实现 Lexer 数据结构
 

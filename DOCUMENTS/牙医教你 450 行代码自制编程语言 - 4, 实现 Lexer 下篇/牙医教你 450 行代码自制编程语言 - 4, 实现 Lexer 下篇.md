@@ -2,7 +2,7 @@
 ----------------------------------------------------
 
 @version    20210104:1  
-@author     karminski <work.karminski@outlook.com>
+@author     karminski <work.karminski@outlook.com>  
 
 
 上一篇  [牙医教你 450 行代码自制编程语言 - 3, 实现 Lexer 上篇](https://zhuanlan.zhihu.com/p/341840788), 讲了 Lexer 的 Token 识别方法, 接下来我们就要把它拼装起来了!
@@ -11,6 +11,8 @@
 
 
 再次推荐这本书, 本教程就是类似这本书的简化版本, 想要仔细学习的话可以考虑看原作:  
+
+- [《自己动手实现Lua：虚拟机、编译器和标准库》](https://union-click.jd.com/jdc?e=jdext-1331174943460048896-0&p=AyIGZRhfEQAUAlEZWBAyEgZUGF4SAhIFUBJaEQQiQwpDBUoyS0IQWhkeHAxfEE8HCllHGAdFBwsCEwZWHlwVAhACXBpfEx1LQglGa2lVWnpcTwhRYXZHBkIzFXRIXT1jGHUOHjdVElsXChMGVRxYJQITBlUfXhYBFAZlK1sQMlNpXBhdFAUaN1QrWxICEwdRHFIXCxYPUitbHQYi0fuPjp29y7fwzfG715%2B3gJLwwbyUN2UrWCVZR1McXkcVABAHVR1eHQcQAlIaWhALGw9SB1olAhMGVx9ZFAUaBzseWxQDEwNdGlkXbBAGVBlaFAAVAVYrWyUBIlk7GggVUhVVAEw1T1lTBxAeWxdsEgRdHFwRBBA3VxpaFwA%3D)
 
 
 # 糖糖糖!
