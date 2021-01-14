@@ -18,6 +18,22 @@ print($a)
 
 准备好了吗? 让我们开始!  
 
+# PDF 
+
+- [戳这里直接看PDF版本](./pdf/write-a-programming-language-in-450-lines.pdf)
+
+# Markdown
+
+或者你更喜欢看用 Markdown 编写的原始版本:
+
+- [牙医教你 450 行代码自制编程语言 - 1, 从 EBNF 开始](./DOCUMENTS/part-1-start-from-ebnf/part-1-start-from-ebnf.md)
+- [牙医教你 450 行代码自制编程语言 - 2, 两个魔法就可以实现永动机](./DOCUMENTS/part-2-two-magic/part-2-two-magic.md)
+- [牙医教你 450 行代码自制编程语言 - 3, 实现 Lexer 上篇](./DOCUMENTS/part-3-create-a-lexer/part-3-create-a-lexer.md)
+- [牙医教你 450 行代码自制编程语言 - 4, 实现 Lexer 下篇](./DOCUMENTS/part-4-create-a-lexer/part-4-create-a-lexer.md)
+- [牙医教你 450 行代码自制编程语言 - 5, 递归下降语法解析器](./DOCUMENTS/part-5-parser/part-5-parser.md)
+- [牙医教你 450 行代码自制编程语言 - 6, 后端](./DOCUMENTS/part-6-backend/part-6-backend.md)
+- [牙医教你 450 行代码自制编程语言 - 7, 后续该如何学习编译原理](./DOCUMENTS/part-7-how-to-learn/part-7-how-to-learn.md)
+
 # Author
 
 [karminski-牙医](https://github.com/karminski)  
@@ -39,3 +55,4 @@ print($a)
 非商业性使用 - 您不得将本作品用于商业目的.  
 
 禁止演绎 - 如果您 再混合, 转换, 或者基于该作品创作, 您不可以分发修改作品.  
+
