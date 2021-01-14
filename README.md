@@ -18,6 +18,7 @@ print($a)
 
 准备好了吗? 让我们开始!  
 
+
 # Markdown
 
 建议直接看用 Markdown 编写的原始版本, PDF 生成的不是很好:
@@ -36,10 +37,17 @@ print($a)
 - [或者戳这里直接看PDF版本](./pdf/write-a-programming-language-in-450-lines.pdf)
 
 
+# 示例代码
+
+- [Go 版本: pineapple](https://github.com/karminski/pineapple).
+- [Python 版本: pineapple-py](https://github.com/KevinXuxuxu/pineapple-py) 由 [KevinXuxuxu](https://github.com/KevinXuxuxu) 贡献.
+- [TypeScript 版本: pineapple-ts](https://github.com/liulinboyi/pineapple-ts) 由 [liulinboyi](https://github.com/liulinboyi) 贡献.
+
 
 # Author
 
 [karminski-牙医](https://github.com/karminski)  
+
 
 # License 
 
