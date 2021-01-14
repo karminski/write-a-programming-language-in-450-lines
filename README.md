@@ -18,13 +18,9 @@ print($a)
 
 准备好了吗? 让我们开始!  
 
-# PDF 
-
-- [戳这里直接看PDF版本](./pdf/write-a-programming-language-in-450-lines.pdf)
-
 # Markdown
 
-或者你更喜欢看用 Markdown 编写的原始版本:
+建议直接看用 Markdown 编写的原始版本, PDF 生成的不是很好:
 
 - [牙医教你 450 行代码自制编程语言 - 1, 从 EBNF 开始](./DOCUMENTS/part-1-start-from-ebnf/part-1-start-from-ebnf.md)
 - [牙医教你 450 行代码自制编程语言 - 2, 两个魔法就可以实现永动机](./DOCUMENTS/part-2-two-magic/part-2-two-magic.md)
@@ -33,6 +29,13 @@ print($a)
 - [牙医教你 450 行代码自制编程语言 - 5, 递归下降语法解析器](./DOCUMENTS/part-5-parser/part-5-parser.md)
 - [牙医教你 450 行代码自制编程语言 - 6, 后端](./DOCUMENTS/part-6-backend/part-6-backend.md)
 - [牙医教你 450 行代码自制编程语言 - 7, 后续该如何学习编译原理](./DOCUMENTS/part-7-how-to-learn/part-7-how-to-learn.md)
+
+
+# PDF 
+
+- [或者戳这里直接看PDF版本](./pdf/write-a-programming-language-in-450-lines.pdf)
+
+
 
 # Author
 
