@@ -42,7 +42,7 @@ print($a)
 - [Go 版本: pineapple](https://github.com/karminski/pineapple).
 - [Python 版本: pineapple-py](https://github.com/KevinXuxuxu/pineapple-py) 由 [KevinXuxuxu](https://github.com/KevinXuxuxu) 贡献.
 - [TypeScript 版本: pineapple-ts](https://github.com/liulinboyi/pineapple-ts) 由 [liulinboyi](https://github.com/liulinboyi) 贡献.
-- [Dart 版本: fart-pineapple](https://github.com/damonchen/dart-pineapple) 由 [damonchen](https://github.com/damonchen) 贡献.
+- [Dart 版本: dart-pineapple](https://github.com/damonchen/dart-pineapple) 由 [damonchen](https://github.com/damonchen) 贡献.
 - [Java 版本: pineapple-java](https://github.com/LionCoder4ever/pineapple-java) 由 [LionCoder4ever](https://github.com/LionCoder4ever) 贡献.
 
 
