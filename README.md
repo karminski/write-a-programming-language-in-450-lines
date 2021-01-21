@@ -44,6 +44,7 @@ print($a)
 - [TypeScript 版本: pineapple-ts](https://github.com/liulinboyi/pineapple-ts) 由 [liulinboyi](https://github.com/liulinboyi) 贡献.
 - [Dart 版本: dart-pineapple](https://github.com/damonchen/dart-pineapple) 由 [damonchen](https://github.com/damonchen) 贡献.
 - [Java 版本: pineapple-java](https://github.com/LionCoder4ever/pineapple-java) 由 [LionCoder4ever](https://github.com/LionCoder4ever) 贡献.
+- [Java 版本 2: pineapple-java](https://github.com/xiaofine1122/pineapple-java) 由 [xiaofine1122](https://github.com/xiaofine1122) 贡献.
 - [Ruby 版本: pineapple-ruby](https://github.com/YoogoC/pineapple-ruby) 由 [YoogoC](https://github.com/YoogoC) 贡献.
 
 
