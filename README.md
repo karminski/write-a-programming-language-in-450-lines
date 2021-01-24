@@ -46,6 +46,9 @@ print($a)
 - [Java 版本: pineapple-java](https://github.com/LionCoder4ever/pineapple-java) 由 [LionCoder4ever](https://github.com/LionCoder4ever) 贡献.
 - [Java 版本 2: pineapple-java](https://github.com/xiaofine1122/pineapple-java) 由 [xiaofine1122](https://github.com/xiaofine1122) 贡献.
 - [Ruby 版本: pineapple-ruby](https://github.com/YoogoC/pineapple-ruby) 由 [YoogoC](https://github.com/YoogoC) 贡献.
+- [C# 版本: pineapple-csharp](https://github.com/KamioRinn/pineapple-csharp), 由 [KamioRinn](https://github.com/KamioRinn) 贡献.
+- [Rust 版本: pineapple-rs](https://github.com/Max-astro/pineapple-rs), 由 [Max-astro](https://github.com/Max-astro) 贡献.
+
 
 
 # Author
