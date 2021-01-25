@@ -48,7 +48,7 @@ print($a)
 - [Ruby 版本: pineapple-ruby](https://github.com/YoogoC/pineapple-ruby) 由 [YoogoC](https://github.com/YoogoC) 贡献.
 - [C# 版本: pineapple-csharp](https://github.com/KamioRinn/pineapple-csharp), 由 [KamioRinn](https://github.com/KamioRinn) 贡献.
 - [Rust 版本: pineapple-rs](https://github.com/Max-astro/pineapple-rs), 由 [Max-astro](https://github.com/Max-astro) 贡献.
-
+- [Scala 版本: pineapple-scala](https://github.com/lzy0505/pineapple-scala), 由 [lzy0505](https://github.com/lzy0505) 贡献.
 
 
 # Author
