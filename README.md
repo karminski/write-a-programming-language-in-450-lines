@@ -49,6 +49,7 @@ print($a)
 - [C# 版本: pineapple-csharp](https://github.com/KamioRinn/pineapple-csharp), 由 [KamioRinn](https://github.com/KamioRinn) 贡献.
 - [Rust 版本: pineapple-rs](https://github.com/Max-astro/pineapple-rs), 由 [Max-astro](https://github.com/Max-astro) 贡献.
 - [Scala 版本: pineapple-scala](https://github.com/lzy0505/pineapple-scala), 由 [lzy0505](https://github.com/lzy0505) 贡献.
+- [F# 版本: pineapple-fsharp](https://github.com/Nomyfan/pineapple-fsharp), 由 [Nomyfan](https://github.com/Nomyfan) 贡献. 
 
 
 # Author
